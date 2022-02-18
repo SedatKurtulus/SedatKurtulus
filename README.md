@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SedatKurtulus
-- 👀 I’m interested in Python, HTML and CSS.
+- 👀 I’m interested in Art, Running, Python, HTML and CSS.
 - 🌱 I’m currently learning Python.
 - 💞️ I dream of becoming data analysis.
 - 📫 How to reach me: https://sedatkurtulus.com
