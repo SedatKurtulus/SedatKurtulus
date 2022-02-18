@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SedatKurtulus
-- 👀 I’m interested in art and running.
+- 👀 I'm focused on Python, HTML and CSS.
 - 🌱 I’m currently learning Python.
 - 💞️ I dream of becoming data analysis.
+- ✨ I’m interested in art and running.
 - 📫 How to reach me: https://sedatkurtulus.com
 
 <!---
